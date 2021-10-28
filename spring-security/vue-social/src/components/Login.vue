@@ -13,7 +13,7 @@
                     <i class="far fa-eye"></i>
                 </div>
             </div>
-            <button @click="dangnhap">dang nhap</button>
+            <button>dang nhap</button>
             <!-- <input type="submit" value="Đăng nhập" class="form-submit" @click="dangnhap"> -->
             <a href='http://localhost:8080/oauth2/authorize/google?redirect_uri=http://localhost:3000/oauth2/redirect'>
             Login Google</a>
