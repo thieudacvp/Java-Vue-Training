@@ -57,3 +57,4 @@ app:
       - http://localhost:3000/oauth2/callback
       - myandroidapp://oauth2/redirect
       - myiosapp://oauth2/redirect
+

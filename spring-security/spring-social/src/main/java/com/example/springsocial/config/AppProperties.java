@@ -42,6 +42,7 @@ public class AppProperties {
             this.authorizedRedirectUris = authorizedRedirectUris;
             return this;
         }
+        
     }
 
     public Auth getAuth() {
